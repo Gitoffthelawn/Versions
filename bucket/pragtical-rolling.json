@@ -1,12 +1,12 @@
 {
-    "version": "20260924-746-d3db654",
+    "version": "20261002-751-a37bf96",
     "description": "The practical and pragmatic code editor (rolling release).",
     "homepage": "https://pragtical.dev/",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://github.com/pragtical/pragtical/releases/download/rolling/pragtical-rolling-windows-x86_64.zip",
-            "hash": "afc98dc29a968fc5f107457cf0046bfddeec623e8f8218df4c5837c8a2a63d79"
+            "hash": "78c06aa64f6cfa7c8368a693f78802b125c226038f600ebf074058f784bc7934"
         }
     },
     "extract_dir": "pragtical",
