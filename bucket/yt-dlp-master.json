@@ -1,5 +1,5 @@
 {
-    "version": "2026.09.27.220929",
+    "version": "2026.10.10.195719",
     "description": "yt-dlp (official) master builds",
     "homepage": "https://github.com/yt-dlp/yt-dlp-master-builds",
     "license": "Freeware",
@@ -11,16 +11,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.09.27.220929/yt-dlp.exe",
-            "hash": "sha512:9282e0ce484bd7677820efbc270fe0129182d52bdddd53100ac0557180b72c6553711f8e117d5644c9b1cea4ef39ce071cd52d1c23f6dbcb3d2b92555dc96d37"
+            "url": "https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.10.10.195719/yt-dlp.exe",
+            "hash": "sha512:52cab15ba03ce0111471881179525760b5903af9046bb8fe37b30f91c3b73991f866343d6ad82c6da7b8cbd89ec7b9fea5dbb68e062d39b5f9f4e282b8cda20a"
         },
         "32bit": {
-            "url": "https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.09.27.220929/yt-dlp_x86.exe#/yt-dlp.exe",
-            "hash": "sha512:583e073abefd9966a17b47ce9dcaf4131fb9a86fb97df76e7ec6e16131aa99592cd4e49a04dfdf1103098217f53ae159974e9a86f9c4719ad0fe21cfefc0b7a1"
+            "url": "https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.10.10.195719/yt-dlp_x86.exe#/yt-dlp.exe",
+            "hash": "sha512:634ba1021c21e765053b151ada923e55474a4f9a75ebb224393aa555e7ce7996f80c7b3616de32285553f075e9815293031005918296a0e288961692202d96c8"
         },
         "arm64": {
-            "url": "https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.09.27.220929/yt-dlp_arm64.exe#/yt-dlp.exe",
-            "hash": "sha512:9966343af45036c240e072c1242941fdfe2a8d1a47b0ea410f4b1bd91c5450774df49fbff248bb2534619e6659ad96b288577a8b60c738aee31b34d3abd3a685"
+            "url": "https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.10.10.195719/yt-dlp_arm64.exe#/yt-dlp.exe",
+            "hash": "sha512:5286b4abf032f5f26985e7684959acd24c8bfa37b063cffbc235014f40809dc516111e771fdfb2d32b293c3a68131c4027dda65333856f1e0c40f1a1580193c7"
         }
     },
     "bin": "yt-dlp.exe",
